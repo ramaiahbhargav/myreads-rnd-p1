@@ -2,7 +2,7 @@
 
 ```This project was built for the Udacity React Nanodegree Program. The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app.```
 
-**Folder Structure**
+# **Folder Structure**
 
 After creation, your project should look like this:
 ```
