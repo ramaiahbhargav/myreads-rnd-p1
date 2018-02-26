@@ -12,8 +12,6 @@ my-app/
   package.json
   package-lock.json
   yarn.lock
-  node_modules/
-  package.json
   public/
     index.html
     favicon.ico
